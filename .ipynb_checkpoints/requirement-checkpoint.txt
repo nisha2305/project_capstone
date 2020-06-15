@@ -1,0 +1,4 @@
+pyarrow
+pandas>=0.23.0
+numpy
+boto3
